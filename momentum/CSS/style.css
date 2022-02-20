@@ -1,9 +1,0 @@
-.hidden {
-  display: none;
-}
-
-.backgroundImg {
-  background-image: url("backImg01.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
